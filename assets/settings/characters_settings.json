@@ -91,15 +91,15 @@
         "attribute": "hp"
     },
     {
-        "name": "[Abyssal Shadow] Nightmare Sabunak.png",
-        "images": "./assets/images/[Abyssal Shadow] Nightmare Sabunak",
+        "name": "[Abyssal Shadow] Nightmare Sabunak",
+        "images": "./assets/images/[Abyssal Shadow] Nightmare Sabunak.png",
         "grade": "ur",
         "race": "unknown",
         "attribute": "strength"
     },
     {
-        "name": "[Ancient Demon] Mage Chandler.png",
-        "images": "./assets/images/[Ancient Demon] Mage Chandler",
+        "name": "[Ancient Demon] Mage Chandler",
+        "images": "./assets/images/[Ancient Demon] Mage Chandler.png",
         "grade": "ssr",
         "race": "demon",
         "attribute": "strength"
